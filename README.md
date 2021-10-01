@@ -5,9 +5,11 @@ This is a living database of all of the different code repositories the UT COVID
 ## Dashboard code
 We currently host five dashboards on our website, with a sixth dashboard deprecated (https://covid-19.tacc.utexas.edu/dashboards/us/). Here are links to repositories containing code that drives the dashboards.
 
-- COVID-19 Austin risk maps: https://github.com/ut-covid/texvax
-- COVID-19 variant detection: https://github.com/UT-Covid/variants
-- COVID-19 mortality forecasts: https://github.com/UT-Covid/USmortality
+- Austin risk maps: https://github.com/ut-covid/texvax
+- Variant detection: https://github.com/UT-Covid/variants
+- Mortality forecasts: https://github.com/UT-Covid/USmortality
+- Austin projections: https://github.com/UT-Covid/SEIR-Austin
+- TSA projections: https://github.com/UT-Covid/SEIR-TSA
 
 ## Publication code
 Here we highlight the code used to drive various publications
