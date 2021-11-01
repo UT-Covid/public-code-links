@@ -26,7 +26,7 @@ A list of repositories that contain code for simulating outbreaks and epidemics
 
 - Simulating outbreaks on networks: https://github.com/MeyersLabUTexas/sir
 - Example SEIR model code: https://github.com/UT-Covid/SEIR_Example
-- Modular framework for compartmental modeing: https://github.com/eho-tacc/episimlab
+- Modular framework for compartmental modeing: https://github.com/UT-Covid/episimlab
 - Library for network simulations: https://github.com/tjhladish/EpiFire
 
 
